@@ -24,7 +24,7 @@
 
 ## 📂 How to Request Samples
 For architecture diagrams, anonymized code snippets, or detailed technical write-ups, please contact me directly:  
-📧 emma@enterprisearchitectures.com
+📧 hello@enterprisearchitectures.com
 🔗 www.linkedin.com/in/dr-emma-seymour
 
 ---
