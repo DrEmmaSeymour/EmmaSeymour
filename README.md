@@ -8,11 +8,9 @@
 - Expertise in **Java**, **Kotlin**, **Python**, **TypeScript/JavaScript**, and **C++**.
 - Skilled in **refactoring**, **code review**, and **bug detection** at scale.
 
-**Note:** Most of my professional projects are proprietary and not publicly available. At present, this profile features a representative code sample, with additional projects to be added over time as they are prepared for public sharing.
+> **Note:** Most of my professional projects are proprietary and not publicly available. This repository features a representative code sample demonstrating my skills in Java, Spring Boot, and application architecture. Additional public projects will be added over time as they are prepared for sharing.
 
 ## 🏗 Large-Scale Project Experience
-> Due to confidentiality and proprietary restrictions, I cannot publish client source code here.  
-> However, here are representative examples of the scope and complexity of my work:
 
 - **Global Banking Platform** – Java microservices ecosystem spanning millions of LOC; implemented complex CI/CD pipelines in Jenkins & GitHub Actions.
 - **Telecom Billing System** – Multi-language codebase (Java, Kotlin, C++) with distributed architecture; optimized dependency graph for build performance.
